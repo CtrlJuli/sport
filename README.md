@@ -1,2 +1,2 @@
-# sport.github.io
+# sport
 Мой первый хостинг
